@@ -1,3 +1,12 @@
+---
+name: user-story
+about: Template Final Project Agile
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### 🧩 Historia de usuario
 
 **Como** [tipo de usuario],  
